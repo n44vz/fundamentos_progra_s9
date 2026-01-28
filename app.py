@@ -38,5 +38,5 @@ import numpy as np
 
 # Implicito
 """
- ### hola           
+ ### Linea del conflicto          
 """
